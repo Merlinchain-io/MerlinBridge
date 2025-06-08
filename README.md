@@ -1,4 +1,4 @@
-# MerlinSwap Periphery
+# MerlinBridge Periphery
 
 Welcome to the MerlinBridge Periphery repository! This project provides a set of smart contracts and scripts for interacting with the MerlinSwap protocol, allowing users to perform swaps, manage liquidity,Bridge and more.
 
