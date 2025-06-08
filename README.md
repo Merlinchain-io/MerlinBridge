@@ -1,6 +1,6 @@
 # MerlinSwap Periphery
 
-Welcome to the MerlinSwap Periphery repository! This project provides a set of smart contracts and scripts for interacting with the MerlinSwap protocol, allowing users to perform swaps, manage liquidity, and more.
+Welcome to the MerlinBridge Periphery repository! This project provides a set of smart contracts and scripts for interacting with the MerlinSwap protocol, allowing users to perform swaps, manage liquidity,Bridge and more.
 
 ![0_oOQA60kLJExCUboR](https://github.com/user-attachments/assets/b255bc77-5f1e-4bb8-aa84-30e01826eb52)
 
@@ -17,12 +17,12 @@ Welcome to the MerlinSwap Periphery repository! This project provides a set of s
 
 ## Installation
 
-To get started with MerlinSwap Periphery, follow these steps:
+To get started with MerlinBridge Periphery, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/MERLINFinance/MerlinSwap-periphery.git
-   cd MerlinSwap-periphery
+   git clone https://github.com/Merlinchain-io/MerlinBridge.git
+   cd MerlinBridge
    ```
 
 2. **Install Dependencies**
